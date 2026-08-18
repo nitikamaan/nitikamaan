@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Nitika 👋
 
-<!--
-**nitikamaan/nitikamaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering Student  
+📊 Data Science & Machine Learning  
+🎨 UI/UX Design  
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Computer Science Engineering student and a tech enthusiast, exploring UI/UX design, Data Science, AI, and emerging technologies. Passionate about building user-focused solutions, learning new technologies, and leveraging tech to create meaningful impact.
+
+## Skills
+
+- UI/UX Design
+- Python
+- Machine Learning
+- Data Science
+- SQL
+
+## Currently Learning
+
+- Machine Learning
+- Deep Learning
+- Data Analytics
+- Full-Stack Development
+
+## Connect with Me
+
+- LinkedIn: www.linkedin.com/in/nitikamaan

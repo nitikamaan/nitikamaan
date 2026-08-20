@@ -11,10 +11,9 @@ I am a Computer Science Engineering student and a tech enthusiast, exploring UI/
 ## Skills
 
 - UI/UX Design
-- Python
-- Machine Learning
+- AI/ML
+- DSA (JAVA)
 - Data Science
-- SQL
 
 ## Currently Learning
 
